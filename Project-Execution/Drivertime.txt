@@ -1,0 +1,3 @@
+open time: 00:00:09
+alarm time: 00:00:03
+face not detected: 00:00:19
