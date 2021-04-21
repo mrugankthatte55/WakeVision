@@ -1,4 +1,4 @@
-1. Download the model4.h5 trained model from here:
+1. Download the model4.h5 trained model from here: https://drive.google.com/file/d/1HcH2Nz9R7Rt_QK6DSGvuieSWgKdXZTBY/view?usp=sharing
 
 2. Paste it in the Project-Execution folder.
 
