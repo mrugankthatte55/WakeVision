@@ -1,6 +1,5 @@
-# Drowsiness-detection
-The objective of this intermediate Python project is to build a drowsiness detection system that will detect if a person’s eyes are closed for a few seconds. This system will alert the driver when drowsiness is detected.
-
+# WakeVision
+WakeVision is a computer vision system that detects driver drowsiness by monitoring eye closure using MobileNet-based deep learning. Alerts the driver when drowsiness is detected, enhancing road safety. Implemented with Python, OpenCV, and TensorFlow to combine real-time video processing with machine learning.
 How To Run:
 
 1. Download the model4.h5 trained model from here: https://drive.google.com/file/d/1HcH2Nz9R7Rt_QK6DSGvuieSWgKdXZTBY/view?usp=sharing
